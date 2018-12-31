@@ -1,0 +1,10 @@
+author: Tamara Cook
+github_url: https://github.com/tamaracha/swift-json
+module: JSON
+output: docs
+sdk: macosx
+clean: true
+min_acl: public
+xcodebuild_arguments:
+  - "-scheme"
+  - "JSON-Package"
